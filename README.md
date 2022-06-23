@@ -1,2 +1,2 @@
 # mfe-login
-Login application - MFE Parcel
+Login application - MFE Parcel - Single-spa
