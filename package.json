@@ -9,7 +9,8 @@
     "test": "ng test",
     "build:single-spa:Login": "ng build Login --configuration production",
     "serve:single-spa:Login": "ng s --project Login --disable-host-check --port 4200 --live-reload false",
-    "lint": "ng lint"
+    "lint": "ng lint",
+    "start-unmounted": "ng run Login:serve-unmounted"
   },
   "private": true,
   "dependencies": {
