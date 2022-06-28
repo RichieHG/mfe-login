@@ -1,11 +1,14 @@
-# mfe-login
-Login application - MFE Parcel - Single-spa
+# Login application - MFE Parcel - Single-spa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.8.
 
-## Development server
+## Development server with Host App
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm run start` for a dev server. Navigate to `http://localhost:4200/main.js` to get the bundle. The host application will automatically reload if you change any of the source files.
+
+## Development server without Host App
+
+Run `npm run start-unmounted` for a dev server. Navigate to `http://localhost:4200/`. The  application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
