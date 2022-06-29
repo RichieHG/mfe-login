@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server with Host App
 
-Run `npm run start` for a dev server. Navigate to `http://localhost:4200/main.js` to get the bundle. The host application will automatically reload if you change any of the source files.
+Run `npm run start` for a dev server. Navigate to `http://localhost:4200/login.main.js` to get the bundle. The host application will automatically reload if you change any of the source files.
 
 ## Development server without Host App
 
